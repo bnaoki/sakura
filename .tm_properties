@@ -1,0 +1,10 @@
+projectDirectory = "$CWD"
+
+PATH = "$PATH:/usr/local/bin:/usr/local/share/npm/bin"
+
+customExcludes = "node_modules/**/*"
+excludeInFileChooser = "{$excludeInFileChooser,$customExcludes}"
+excludeInFolderSearch = "{$excludeInFolderSearch,$customExcludes}"
+
+[ attr.untitled ]
+fileType = 'source.js'

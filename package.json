@@ -1,0 +1,19 @@
+{
+  "name": "sakura",
+  "description": "Build tool for JS files",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": "Bobby Mathews <bnaoki12@gmail.com>",
+  "preferGlobal": "true",
+  "bin": "./bin/sakura",
+  "main": "./lib/sakura",
+  "dependencies": {
+    "underscore": "1.4.x",
+    "backbone":  "1.0.x",
+    "uglify-js": "2.2.x",
+    "handlebars": "1.0.x",
+    "optimist": "0.5.x",
+    "forever-monitor": "1.2.x",
+    "execSync": "0.0.x"
+  }
+}
