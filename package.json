@@ -15,5 +15,9 @@
     "optimist": "0.5.x",
     "forever-monitor": "1.2.x",
     "execSync": "0.0.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bnaoki/sakura.git"
   }
 }
